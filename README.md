@@ -8,4 +8,4 @@ Throughout this process of creating weather forecasting webapp I have learned fo
 The webapp looks like image below 
 ![image](https://github.com/SzeLer/How-s-The-Weather/assets/110224149/85e85791-95f9-4733-9f82-fbeeef57244d)
 ## Try On
-[What's The Weather]("file:///C:/Users/Sze%20Ler/VSCode/Weather%20Website/index.html")
+[What's The Weather](https://szeler.github.io/SzeLer.github.io-What-s-The-Weather/)
